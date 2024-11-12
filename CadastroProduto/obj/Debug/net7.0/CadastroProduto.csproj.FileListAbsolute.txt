@@ -1,0 +1,14 @@
+C:\Users\Bruno\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-main\CadastroProduto\bin\Debug\net7.0\CadastroProduto.exe
+C:\Users\Bruno\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-main\CadastroProduto\bin\Debug\net7.0\CadastroProduto.deps.json
+C:\Users\Bruno\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-main\CadastroProduto\bin\Debug\net7.0\CadastroProduto.runtimeconfig.json
+C:\Users\Bruno\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-main\CadastroProduto\bin\Debug\net7.0\CadastroProduto.dll
+C:\Users\Bruno\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-main\CadastroProduto\bin\Debug\net7.0\CadastroProduto.pdb
+C:\Users\Bruno\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-main\CadastroProduto\obj\Debug\net7.0\CadastroProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-main\CadastroProduto\obj\Debug\net7.0\CadastroProduto.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-main\CadastroProduto\obj\Debug\net7.0\CadastroProduto.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-main\CadastroProduto\obj\Debug\net7.0\CadastroProduto.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-main\CadastroProduto\obj\Debug\net7.0\CadastroProduto.dll
+C:\Users\Bruno\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-main\CadastroProduto\obj\Debug\net7.0\refint\CadastroProduto.dll
+C:\Users\Bruno\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-main\CadastroProduto\obj\Debug\net7.0\CadastroProduto.pdb
+C:\Users\Bruno\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-main\CadastroProduto\obj\Debug\net7.0\CadastroProduto.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\Criando-um-Sistema-e-Abstraindo-um-Celular-com-POO-main\CadastroProduto\obj\Debug\net7.0\ref\CadastroProduto.dll
