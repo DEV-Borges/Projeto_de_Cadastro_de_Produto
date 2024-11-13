@@ -66,5 +66,31 @@ public class EventoDeCadastro
             _produto.nmProduto = nmNewProduto;
         }
     }
+//Eventos de para o teste
+
+    public bool VerificaCodigoProduto(int cdProduto){
+
+        bool inInvalido = false;
+
+        if (cdProduto < 0)
+            inInvalido = true;
+
+        
+        return inInvalido;
+    }
+
+    public bool VerificaNomeProduto(string nmProduto){
+
+        bool inInvalido = false;
+
+        if (nmProduto == "")
+            inInvalido = true;
+        
+        return inInvalido;
+    }
+
+
+
+    
 
 }
